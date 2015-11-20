@@ -1,4 +1,4 @@
-## Creating a special function that create a special matrix that can cache its inverse, 
+## Creating a special function that will return the inverse of a Matrix, 
 ## then a seperate function that will compute the inverse of the 
 ## special "matrix" returned by makeCacheMatrix
 
